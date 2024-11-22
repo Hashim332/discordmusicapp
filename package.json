@@ -1,4 +1,21 @@
 {
+  "name": "discordmusicapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hashim332/discordmusicapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hashim332/discordmusicapp/issues"
+  },
+  "homepage": "https://github.com/Hashim332/discordmusicapp#readme",
   "dependencies": {
     "discord-player": "^6.7.1",
     "discord.js": "^14.16.3"
